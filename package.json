@@ -12,8 +12,8 @@
     "eslint plugin",
     "vue",
     "style tag",
-    "scoped",
-    "module"
+    "scoped css",
+    "css modules"
   ],
   "repository": "git@github.com:talltotal/eslint-plugin-vue-style-tag.git",
   "author": "talltotal",

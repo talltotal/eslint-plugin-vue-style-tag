@@ -2,7 +2,7 @@
 
 ESLint plugin to require Vue style tags with scoped or module attribute.
 
-This rule was valid when the parser is `vue-eslint-parser@^7.0.0`.
+This rule was valid when the parser of eslint is `vue-eslint-parser@^7.0.0`.
 
 
 Valid:
