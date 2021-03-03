@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-vue-style-tag",
+  "version": "0.0.1",
+  "description": "ESLint plugin to require Vue style tags with scoped or module attribute.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --exit -R progress -c test/**/*.js"
+  },
+  "private": false,
+  "keywords": [
+    "eslint",
+    "eslint plugin",
+    "vue",
+    "style tag",
+    "scoped",
+    "module"
+  ],
+  "repository": "git@github.com:talltotal/eslint-plugin-vue-style-tag.git",
+  "author": "talltotal",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=5.0.0",
+    "vue-eslint-parser": "^7.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
